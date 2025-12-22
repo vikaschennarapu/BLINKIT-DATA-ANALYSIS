@@ -23,6 +23,6 @@ Questions (KPI's)
 -Blinkit sales are mainly driven by strong-performing categories such as snacks, beverages, and daily essentials, along with outlet factors like size, type, and city tier.​
 -Low-fat products and higher-rated items generally show better sales performance, reflecting health-conscious customer preferences and the importance of customer satisfaction.
 
-##Final Conclusion
+## Final Conclusion
 - The project proves that, after proper cleaning and analysis, Blinkit sales data can directly guide actions like prioritizing top categories, optimizing stock by outlet type, and targeting marketing to high-demand, health-focused items.​
 - The work clearly showcases solid skills in Python-based data cleaning, EDA, visualization, and insight generation, making it a strong portfolio project for data analyst roles in retail and quick-commerce.
