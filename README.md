@@ -24,7 +24,7 @@ Questions (KPI's)
 -Low-fat products and higher-rated items generally show better sales performance, reflecting health-conscious customer preferences and the importance of customer satisfaction.
 
 ## Project Python Code
--<a href="https://github.com/vikaschennarapu/BLINKIT-DATA-ANALYSIS/blob/main/Blinkit%20Data%20Analysis%20Using%20Python.ipynb">Jupter Notes</a>
+-<a href="https://github.com/vikaschennarapu/BLINKIT-DATA-ANALYSIS/blob/main/Blinkit%20Data%20Analysis%20Using%20Python.ipynb">Jupyter Notes</a>
 
 ## Final Conclusion
 - The project proves that, after proper cleaning and analysis, Blinkit sales data can directly guide actions like prioritizing top categories, optimizing stock by outlet type, and targeting marketing to high-demand, health-focused items.​
